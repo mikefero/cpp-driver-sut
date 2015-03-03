@@ -89,9 +89,9 @@ Method   | Path                                         | Return Codes
 - Update the help message to be clearer (driver vs HTTP server)
 - Add Graphite/Cyanite connection for driver metrics
 
-[cpp-driver]: (https://github.com/datastax/cpp-driver)
-[EasyLogging++ v8.91]: (https://github.com/easylogging/easyloggingpp/tree/v8.91)
-[libunwind]: (http://www.nongnu.org/libunwind/)
-[libuv]: (https://github.com/libuv/libuv)
-[Mongoose Web Server]: (https://github.com/cesanta/mongoose)
-[StackWalker]: (http://stackwalker.codeplex.com/)
+[cpp-driver]: https://github.com/datastax/cpp-driver
+[EasyLogging++ v8.91]: https://github.com/easylogging/easyloggingpp/tree/v8.91
+[libunwind]: http://www.nongnu.org/libunwind/
+[libuv]: https://github.com/libuv/libuv
+[Mongoose Web Server]: https://github.com/cesanta/mongoose
+[StackWalker]: http://stackwalker.codeplex.com/
